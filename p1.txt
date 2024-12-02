@@ -3,3 +3,13 @@ Explains the besics of gitHub
 
 Experiment:2
 describe how we create new branch
+
+Experiment:3
+describe how we save the stash msg
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+stash command is used for temporary storage for changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
